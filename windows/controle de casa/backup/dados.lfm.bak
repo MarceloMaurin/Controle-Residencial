@@ -1,0 +1,14 @@
+object dmDados: TdmDados
+  OldCreateOrder = False
+  Height = 291
+  HorizontalOffset = 301
+  VerticalOffset = 172
+  Width = 435
+  object ZConnection1: TZConnection
+    ControlsCodePage = cCP_UTF8
+    AutoEncodeStrings = False
+    Port = 0
+    left = 48
+    top = 23
+  end
+end

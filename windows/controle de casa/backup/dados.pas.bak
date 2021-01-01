@@ -1,0 +1,30 @@
+unit Dados;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils,FileUtil, ZConnection;
+
+type
+
+  { TdmDados }
+
+  TdmDados = class(TDataModule)
+    ZConnection1: TZConnection;
+  private
+    { private declarations }
+  public
+    { public declarations }
+  end;
+
+var
+  dmDados: TdmDados;
+
+implementation
+
+{$R *.lfm}
+
+end.
+

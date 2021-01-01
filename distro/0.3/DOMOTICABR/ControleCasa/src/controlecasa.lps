@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="17">
+      <Unit0>
+        <Filename Value="controlecasa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="controlecasa"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="97" Y="9"/>
+        <UsageCount Value="72"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="122"/>
+        <CursorPos X="28" Y="185"/>
+        <UsageCount Value="72"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="controle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmControle"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Controle"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="116"/>
+        <CursorPos X="43" Y="134"/>
+        <UsageCount Value="72"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="despertador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDespertador"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Despertador"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="46"/>
+        <CursorPos X="32" Y="15"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="computador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmComputador"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="computador"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="42"/>
+        <UsageCount Value="69"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="multimidia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMultimidia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="multimidia"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="46" Y="5"/>
+        <UsageCount Value="67"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="cameras.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCameras"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Cameras"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="98" Y="12"/>
+        <UsageCount Value="59"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="espeak.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="espeak"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="13"/>
+        <CursorPos X="29" Y="42"/>
+        <UsageCount Value="51"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="alarme.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAlarme"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Alarme"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="43"/>
+        <CursorPos X="3" Y="74"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="setup.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSetup"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="setup"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="22" Y="12"/>
+        <UsageCount Value="34"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="dados.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmDados"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="Dados"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="10" Y="22"/>
+        <UsageCount Value="34"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="mplayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mplayer"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="26" Y="4"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1531"/>
+        <CursorPos X="22" Y="1783"/>
+        <UsageCount Value="14"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4895"/>
+        <CursorPos X="1" Y="4846"/>
+        <UsageCount Value="8"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\components\Sdpo\SdpoPvAPI\sdpopvapi.pas"/>
+        <UnitName Value="SdpoPvAPI"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="22" Y="30"/>
+        <UsageCount Value="11"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\components\Sdpo\SdpoFreenect\sdpofreenect.pas"/>
+        <UnitName Value="sdpofreenect"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="18"/>
+        <CursorPos X="44" Y="29"/>
+        <UsageCount Value="8"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\components\Sdpo\SdpoVideo4L2\videodev2.pas"/>
+        <UnitName Value="videodev2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="6" Y="5"/>
+        <UsageCount Value="8"/>
+      </Unit16>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="controle.pas"/>
+        <Caret Line="136" Column="19" TopLine="106"/>
+      </Position1>
+      <Position2>
+        <Filename Value="controle.pas"/>
+        <Caret Line="52" Column="19" TopLine="35"/>
+      </Position2>
+      <Position3>
+        <Filename Value="controle.pas"/>
+        <Caret Line="91" Column="40" TopLine="61"/>
+      </Position3>
+      <Position4>
+        <Filename Value="alarme.pas"/>
+        <Caret Line="48" Column="65" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="alarme.pas"/>
+        <Caret Line="32" Column="13" TopLine="35"/>
+      </Position5>
+      <Position6>
+        <Filename Value="controle.pas"/>
+        <Caret Line="100" Column="23" TopLine="91"/>
+      </Position6>
+      <Position7>
+        <Filename Value="controle.pas"/>
+        <Caret Line="86" Column="13" TopLine="61"/>
+      </Position7>
+      <Position8>
+        <Filename Value="controle.pas"/>
+        <Caret Line="55" Column="17" TopLine="54"/>
+      </Position8>
+      <Position9>
+        <Filename Value="controle.pas"/>
+        <Caret Line="72" Column="40" TopLine="52"/>
+      </Position9>
+      <Position10>
+        <Filename Value="controle.pas"/>
+        <Caret Line="73" Column="1" TopLine="52"/>
+      </Position10>
+      <Position11>
+        <Filename Value="controle.pas"/>
+        <Caret Line="75" Column="1" TopLine="52"/>
+      </Position11>
+      <Position12>
+        <Filename Value="controle.pas"/>
+        <Caret Line="76" Column="1" TopLine="52"/>
+      </Position12>
+      <Position13>
+        <Filename Value="controle.pas"/>
+        <Caret Line="77" Column="25" TopLine="52"/>
+      </Position13>
+      <Position14>
+        <Filename Value="controle.pas"/>
+        <Caret Line="72" Column="1" TopLine="52"/>
+      </Position14>
+      <Position15>
+        <Filename Value="controle.pas"/>
+        <Caret Line="73" Column="1" TopLine="52"/>
+      </Position15>
+      <Position16>
+        <Filename Value="controle.pas"/>
+        <Caret Line="75" Column="1" TopLine="52"/>
+      </Position16>
+      <Position17>
+        <Filename Value="controle.pas"/>
+        <Caret Line="76" Column="1" TopLine="52"/>
+      </Position17>
+      <Position18>
+        <Filename Value="controle.pas"/>
+        <Caret Line="77" Column="1" TopLine="52"/>
+      </Position18>
+      <Position19>
+        <Filename Value="controle.pas"/>
+        <Caret Line="79" Column="1" TopLine="52"/>
+      </Position19>
+      <Position20>
+        <Filename Value="controle.pas"/>
+        <Caret Line="72" Column="1" TopLine="52"/>
+      </Position20>
+      <Position21>
+        <Filename Value="controle.pas"/>
+        <Caret Line="76" Column="1" TopLine="52"/>
+      </Position21>
+      <Position22>
+        <Filename Value="controle.pas"/>
+        <Caret Line="77" Column="1" TopLine="52"/>
+      </Position22>
+      <Position23>
+        <Filename Value="controle.pas"/>
+        <Caret Line="86" Column="1" TopLine="56"/>
+      </Position23>
+      <Position24>
+        <Filename Value="controle.pas"/>
+        <Caret Line="76" Column="1" TopLine="56"/>
+      </Position24>
+      <Position25>
+        <Filename Value="controle.pas"/>
+        <Caret Line="77" Column="1" TopLine="56"/>
+      </Position25>
+      <Position26>
+        <Filename Value="controle.pas"/>
+        <Caret Line="86" Column="1" TopLine="56"/>
+      </Position26>
+      <Position27>
+        <Filename Value="controle.pas"/>
+        <Caret Line="76" Column="1" TopLine="56"/>
+      </Position27>
+      <Position28>
+        <Filename Value="controle.pas"/>
+        <Caret Line="77" Column="1" TopLine="56"/>
+      </Position28>
+      <Position29>
+        <Filename Value="controle.pas"/>
+        <Caret Line="59" Column="108" TopLine="56"/>
+      </Position29>
+      <Position30>
+        <Filename Value="controle.pas"/>
+        <Caret Line="44" Column="15" TopLine="30"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

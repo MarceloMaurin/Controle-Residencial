@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="controlecasa"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="3">
+      <Item1>
+        <PackageName Value="SQLDBLaz"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="lnetvisual"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="LCL"/>
+      </Item3>
+    </RequiredPackages>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="controlecasa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="controlecasa"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="controle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmControle"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Controle"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="despertador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDespertador"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Despertador"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="computador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmComputador"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="computador"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="multimidia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMultimidia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="multimidia"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="cameras.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCameras"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Cameras"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="espeak.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="espeak"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="alarme.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAlarme"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Alarme"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="setup.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSetup"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="setup"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="dados.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmDados"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="Dados"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="mplayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mplayer"/>
+      </Unit11>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="controlecasa"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <Optimizations>
+        <OptimizationLevel Value="0"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

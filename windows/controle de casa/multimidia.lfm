@@ -1,0 +1,38 @@
+object frmMultimidia: TfrmMultimidia
+  Left = 301
+  Height = 277
+  Top = 172
+  Width = 204
+  Caption = 'Multimidia'
+  ClientHeight = 277
+  ClientWidth = 204
+  LCLVersion = '1.2.6.0'
+  object SpeedButton1: TSpeedButton
+    Left = 8
+    Height = 45
+    Top = 8
+    Width = 114
+    Caption = 'Videos'
+  end
+  object SpeedButton2: TSpeedButton
+    Left = 8
+    Height = 45
+    Top = 64
+    Width = 114
+    Caption = 'Rádios'
+  end
+  object SpeedButton3: TSpeedButton
+    Left = 8
+    Height = 45
+    Top = 120
+    Width = 114
+    Caption = 'MP3'
+  end
+  object SpeedButton4: TSpeedButton
+    Left = 8
+    Height = 45
+    Top = 176
+    Width = 114
+    Caption = 'Fotos'
+  end
+end

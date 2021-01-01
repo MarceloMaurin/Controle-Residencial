@@ -1,0 +1,40 @@
+object frmWizzard: TfrmWizzard
+  Left = 1869
+  Height = 196
+  Top = 210
+  Width = 363
+  Caption = 'Assistente de Instalação'
+  ClientHeight = 196
+  ClientWidth = 363
+  LCLVersion = '1.2.6.0'
+  object Image1: TImage
+    Left = 8
+    Height = 119
+    Top = 8
+    Width = 122
+  end
+  object Label1: TLabel
+    Left = 142
+    Height = 120
+    Top = 14
+    Width = 189
+    Caption = 'Bem vindo ao Wizzard de Instalação'#13#10' do projeto Controle Residencial.'#13#10#13#10'Se desejar prosseguir, clique em '#13#10'Seguir.'#13#10#13#10'Caso desejar cancelar, clique no '#13#10'botão Sair.'
+    ParentColor = False
+  end
+  object btSair: TButton
+    Left = 96
+    Height = 25
+    Top = 152
+    Width = 106
+    Caption = 'Sair'
+    TabOrder = 0
+  end
+  object btSeguir: TButton
+    Left = 232
+    Height = 25
+    Top = 152
+    Width = 107
+    Caption = 'Seguir'
+    TabOrder = 1
+  end
+end

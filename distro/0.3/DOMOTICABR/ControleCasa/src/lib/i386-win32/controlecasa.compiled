@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1162570748"/>
+  <Params Value=" -MObjFPC -Scghi -g -gl -WG -vewnhi &quot;-FiC:\Users\mmm\Documents\projetos\Controle Residencial\windows\controle de casa\lib\i386-win32&quot; -FuC:\lazarus\components\sqldb\lib\i386-win32\win32 -FuC:\lazarus\components\lnet\lazaruspackage\lib\i386-win32 -FuC:\lazarus\components\ideintf\units\i386-win32\win32 -FuC:\lazarus\components\synedit\units\i386-win32\win32 -FuC:\lazarus\components\lazcontrols\lib\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\codetools\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 &quot;-FuC:\Users\mmm\Documents\projetos\Controle Residencial\windows\controle de casa\&quot; &quot;-FUC:\Users\mmm\Documents\projetos\Controle Residencial\windows\controle de casa\lib\i386-win32\&quot; -l -dLCL -dLCLwin32 controlecasa.lpr"/>
+</CONFIG>

@@ -1,0 +1,88 @@
+object frmSetup: TfrmSetup
+  Left = 485
+  Height = 271
+  Top = 209
+  Width = 415
+  Caption = 'Setup do Sistema'
+  ClientHeight = 271
+  ClientWidth = 415
+  LCLVersion = '1.2.6.0'
+  object Label1: TLabel
+    Left = 11
+    Height = 15
+    Top = 10
+    Width = 88
+    Caption = 'Banco de Dados:'
+    ParentColor = False
+  end
+  object Edit1: TEdit
+    Left = 109
+    Height = 23
+    Top = 10
+    Width = 275
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Label2: TLabel
+    Left = 71
+    Height = 15
+    Top = 44
+    Width = 28
+    Caption = 'Host:'
+    ParentColor = False
+  end
+  object edHost: TEdit
+    Left = 109
+    Height = 23
+    Top = 44
+    Width = 232
+    TabOrder = 1
+    Text = 'edHost'
+  end
+  object Label3: TLabel
+    Left = 73
+    Height = 15
+    Top = 75
+    Width = 26
+    Caption = 'User:'
+    ParentColor = False
+  end
+  object edUser: TEdit
+    Left = 109
+    Height = 23
+    Top = 75
+    Width = 272
+    TabOrder = 2
+    Text = 'edUser'
+  end
+  object Label4: TLabel
+    Left = 72
+    Height = 15
+    Top = 112
+    Width = 35
+    Caption = 'Senha:'
+    ParentColor = False
+  end
+  object edPassword: TEdit
+    Left = 109
+    Height = 23
+    Top = 112
+    Width = 272
+    TabOrder = 3
+    Text = 'EDPASSWORD'
+  end
+  object SpeedButton1: TSpeedButton
+    Left = 320
+    Height = 34
+    Top = 214
+    Width = 80
+    Caption = 'Salvar'
+  end
+  object SpeedButton2: TSpeedButton
+    Left = 232
+    Height = 34
+    Top = 216
+    Width = 80
+    Caption = 'Cancelar'
+  end
+end

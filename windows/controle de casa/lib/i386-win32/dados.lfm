@@ -1,0 +1,7 @@
+object dmDados: TdmDados
+  OldCreateOrder = False
+  Height = 291
+  HorizontalOffset = 301
+  VerticalOffset = 172
+  Width = 435
+end
